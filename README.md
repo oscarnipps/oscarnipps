@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning a bit of backend development just for the restful API stuff 😄
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: If i was not a developer i would have been making buckets like giannis or would have been living the life of a mandalorian (this is the way!)
+- ⚡ Fun fact: If i was not a developer i would have been getting buckets like giannis :basketball_man: or i would have been living the life of a mandalorian (this is the way!)
 
 ### Languages & Tools
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
