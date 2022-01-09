@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarnipps&layout=compact)](https://github.com/oscarnipps/github-readme-stats)
 
 ### Connect
-[Twitter](https://twitter.com/oscar_ekesiobi)
-[LinkedIn](https://www.linkedin.com/in/oscar-ekesiobi/)
+- [Twitter](https://twitter.com/oscar_ekesiobi)
+- [LinkedIn](https://www.linkedin.com/in/oscar-ekesiobi/)
 
 
