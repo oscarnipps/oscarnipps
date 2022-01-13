@@ -2,7 +2,7 @@
 
 ### A mobile developer passionate and eager to provide solutions to problems through the use of various technologies.
 
-- 🌱 I’m currently learning a bit of backend development just for the restful API stuff 😄
+- 🌱 I’m currently learning a bit of backend development to expand my understanding restful API's and system designs 😄
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: If i was not a developer i would have been getting buckets like giannis :basketball_man: or i would have been living the life of a mandalorian (this is the way!)
 
